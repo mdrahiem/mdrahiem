@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on Javascript
+- 🌱 I’m currently learning Solidity
+- 💬 Ask me about ReactJS
+- 📫 How to reach me: mdrahiem@gmail.com
+
+![Tracker](https://komarev.com/ghpvc/?username=mdrahiem&style=flat-square)
+[![LinkedIn](https://img.shields.io/twitter/url?color=555555&label=Rahimuddin%20Mohammad&logo=linkedin&style=flat-square&url=https%3A%2F%2Flinkedin.com%2Fwhomdrahiem)](https://linkedin.com/in/mdrahiem)
