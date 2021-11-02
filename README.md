@@ -23,4 +23,25 @@ Here are some ideas to get you started:
 ![Tracker](https://komarev.com/ghpvc/?username=mdrahiem&style=flat-square)
 [![LinkedIn](https://img.shields.io/twitter/url?color=555555&label=Rahimuddin%20Mohammad&logo=linkedin&style=flat-square&url=https%3A%2F%2Flinkedin.com%2Fwhomdrahiem)](https://linkedin.com/in/mdrahiem)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mdrahiem&theme=onedark)](https://github.com/mdrahiem)
+<details>	
+  <summary><b>🏆 Github Trophies</b></summary>
+	
+  <div align="center"> 
+    <img 
+      src="https://github-profile-trophy.vercel.app/?username=mdrahiem&theme=onedark" alt="github-profile-trophy"
+      height="180em"
+    />
+	</div>
+</details>
+
+<details>	
+  <summary><b>📈 Github Stats</b></summary>
+
+  <div align="center"> 
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=mdrahiem&count_private=true&show_icons=true&theme=onedark&locale=en"
+      alt="github-readme-stats"
+      height="180em" 
+    />
+	</div>
+</details>
