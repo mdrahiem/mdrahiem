@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/mdrahiem" target="blank"><img src="https://img.shields.io/twitter/follow/mdrahiem?logo=twitter&style=for-the-badge" alt="mdrahiem" /></a> </p>
 
-- 🌱 I’m currently learning **Remix**
+- 🌱 I’m currently working with **Remix**
 
-- 📝 I regularly write articles on [https://dev.to/mdrahiem](https://dev.to/mdrahiem)
+- 📝 I write articles on [https://dev.to/mdrahiem](https://dev.to/mdrahiem)
 
 - 💬 Ask me about **react**
 
